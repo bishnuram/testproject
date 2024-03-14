@@ -1,6 +1,6 @@
 public class Palindrome {
     public static void main(String[] args) {
-
+System.out.println("hello this is my new project about learning git");
         int n=54344345,r;
         int sum=0,temp;
         temp=n;
